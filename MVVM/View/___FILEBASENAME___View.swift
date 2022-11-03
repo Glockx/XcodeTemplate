@@ -6,7 +6,7 @@ import Combine
 import PinLayout
 import UIKit
 
-struct ___VARIABLE_productName:identifier___View: UIView {
+class ___VARIABLE_productName:identifier___View: UIView {
     
     // MARK: - View
 
