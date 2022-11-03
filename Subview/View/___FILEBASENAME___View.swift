@@ -12,6 +12,12 @@ class ___VARIABLE_productName:identifier___View: UIView {
 
     // MARK: -  Variables
     
+    // View Model
+    var viewModel: ___VARIABLE_productName:identifier___ViewModel!
+
+    // Cancellables
+    var cancellables = Set<AnyCancellable>()
+
     // MARK: - Init
 
     override init(frame: CGRect) {
