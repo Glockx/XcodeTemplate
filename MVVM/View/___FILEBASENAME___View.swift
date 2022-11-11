@@ -10,7 +10,7 @@ class ___VARIABLE_productName:identifier___View: UIView {
     
     // MARK: - View
 
-    // MARK: -  Variables
+    // MARK: - Variables
     
     // View Model
     var viewModel: ___VARIABLE_productName:identifier___ViewModel!

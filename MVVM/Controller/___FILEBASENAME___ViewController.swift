@@ -24,7 +24,7 @@ class ___VARIABLE_productName:identifier___ViewController: UIViewController {
         super.init(nibName: nil, bundle: nil)
 
         // Set Parent Controller
-        self.viewModel.parentController = self
+        self.viewModel.parentViewController = self
 
         // Init View
         contentView = ___VARIABLE_productName:identifier___View(viewModel: self.viewModel)
