@@ -2,8 +2,7 @@
 //  ___FILEHEADER___
 //
 import Foundation
-import RxSwift
-import RxCocoa
+import Combine
 
 class ___VARIABLE_productName:identifier___ViewModel {
 
