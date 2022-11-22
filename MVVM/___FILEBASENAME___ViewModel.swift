@@ -13,7 +13,7 @@ class ___VARIABLE_productName:identifier___ViewModel {
     var cancellables = Set<AnyCancellable>()
 
     /// Parent UIViewController
-    weak var parentViewController: ___VARIABLE_productName:identifier___ViewController!
+    weak var parentController: ___VARIABLE_productName:identifier___ViewController!
 
     // MARK: - Init
 

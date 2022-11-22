@@ -45,7 +45,7 @@ class ___VARIABLE_productName:identifier___View: UIView {
     // MARK: - configureView
 
     func configureView() {
-      
+       // Add Subviews
     }
 
     // MARK: - Bind Values
